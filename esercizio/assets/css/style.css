@@ -10822,4 +10822,9 @@ textarea.form-control-lg {
 }
 body {
   font-size: "Inter", sans-serif;
+}
+
+col div div i {
+  flex-shrink: 0;
+  max-width: 41px;
 }/*# sourceMappingURL=style.css.map */
